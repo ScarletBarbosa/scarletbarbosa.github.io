@@ -1,4 +1,17 @@
 # Scarlet Barbosa 
+
+
+## Link's Trabalhos Realizados:
+
+### Trabalho de Conclusão de Curso - Engenharia Cartográfica e de Agrimensura | UFPR:
+
+[PROPOSTA PARA IMPLEMENTAÇÃO DO MÉTODO FINGERPRINTING PARA POSICIONAMENTO NO UFPR CAMPUSMAP](http://scarletbarbosa.github.io/PROJETO_FINAL_POSICIONAMENTO_INDOOR_SCARLET_BARBOSA.pdf)
+
+### Perícia Judicial - Vara Cível de Matinhos - PR:
+
+[LAUDO JUDICIAL - VARA CÍVEL DE MATINHOS](http://scarletbarbosa.github.io/laudo-pericia-matinhos.pdf)
+
+
 ## Graduanda em Análise e Desenvolvimento de Sistemas
  
 Scarlet Barbosa, graduanda em Análise e Desenvolvimento de Sistemas (1º semestre), possui experiência com linguagens C++, Matlab e SQL. Também possui conhecimento em HTML5, CSS3. Estuda as seguintes linguagens para ampliar seus conhecimentos:  JavaScript, Java e Python.
