@@ -146,6 +146,8 @@ msg_criptografada = alf_critografado(bb(1:tam_bb)) % mostra a mensagem criptogra
 
 Este algoritmo foi desenvolvido por mim durante meu Trabalho de Conclusão de Curso em Engenharia Cartográfica e de Agrimensura na UFPR (Universidade Federal do Paraná), no segundo semestre de 2017.
 
+[Click me](http://scarletbarbosa.github.io/PROJETO_FINAL_POSICIONAMENTO_INDOOR_SCARLET_BARBOSA.pdf){: .btn}
+
 O trabalho teve como objetivo propor o posicionamento indoor através do
 método "Fingerprinting” utilizando a infraestrutura de rede wi-fi da UFPR como auxílio
 para localização e orientação dos usuários do CampusMap. Os objetivos específicos
