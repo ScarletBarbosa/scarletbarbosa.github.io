@@ -344,3 +344,4 @@ for i=1:numQueryVectors,
 end
 ~~~
 
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-bioma-brasil-destaque-matinhos.png)
