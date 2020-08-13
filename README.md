@@ -343,5 +343,24 @@ for i=1:numQueryVectors,
     neighborDistances(i,:) = sqrt(sortval(1:k));
 end
 ~~~
+## Alguns dos Mapas desenvolvidos por mim:
 
 ![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-bioma-brasil-destaque-matinhos.png)
+
+Mapa caracterizando o bioma do Município de Matinhos - PR.
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-bioma-brasil-destaque-parana.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-bioma-brasil-limites-estaduais.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-fitogeografico-ii.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-fitogeografico-iii.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-fitogeografico.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-hidrico-ii.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-hidrico.png)
+
+![Image of Yaktocat](https://scarletbarbosa.github.io/images/mapa-ucs-pr (1).png)
