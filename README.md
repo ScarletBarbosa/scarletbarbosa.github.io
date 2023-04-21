@@ -353,3 +353,37 @@ for i=1:numQueryVectors,
     neighborDistances(i,:) = sqrt(sortval(1:k));
 end
 ~~~
+
+~~~ python
+
+# cria acesso do Colab a pasta do drive:
+
+from google.colab import drive 
+drive.mount('/content/gdrive')
+
+# instalação do pacote/biblioteca PyPDF2:
+
+!pip install PyPDF2
+
+# fusão dos pdf's que funciona aqui no COLAB:
+
+from PyPDF2 import PdfFileMerger
+import natsort
+import os
+
+DIR = '/content/gdrive/My Drive/segunda_parte_votacao_2020'
+OUTPUT = "segunda_parte_votacoes_2020.pdf"
+
+file_list = filter(lambda f: f.endswith('.pdf'), os.listdir(DIR))
+file_list = natsort.natsorted(file_list)
+
+merger = PdfFileMerger(strict=False)
+
+for f_name in file_list:
+  f = open(os.path.join(DIR, f_name), "rb")
+  merger.append(f)
+
+output = open(OUTPUT, "wb")
+merger.write(output)
+
+~~~
